@@ -1,0 +1,14 @@
+var db_host = '';
+var db_name = '';
+var db_pass = '';
+
+var name = '';
+var token = '';
+
+
+exports.db_host = db_host;
+exports.db_name = db_name;
+exports.db_pass = db_pass;
+
+exports.name = name;
+exports.token = token;

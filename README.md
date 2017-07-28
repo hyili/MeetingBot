@@ -1,2 +1,2 @@
 # MeetingBot
-A slackbot for meeting inform
+MeetingBot for Slack in Nodejs

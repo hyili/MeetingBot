@@ -1,0 +1,26 @@
+{
+  "name": "meetingbot",
+  "version": "1.0.0",
+  "description": "A slackbot for inform meeting",
+  "main": "slackbot.js",
+  "dependencies": {
+    "slackbots": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyili/MeetingBot.git"
+  },
+  "keywords": [
+    "MeetingBot"
+  ],
+  "author": "hyili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyili/MeetingBot/issues"
+  },
+  "homepage": "https://github.com/hyili/MeetingBot#readme"
+}
